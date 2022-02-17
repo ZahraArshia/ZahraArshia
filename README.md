@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### About me 🖥️
-🆘 I'm a hardware enginner stucking in software world by mistake! (Help Me!)
+🆘 I'm a hardware engineer stucking in software world by mistake! (Help Me!)
 
 🔎 I know how to deal with microcontrollers, microprocessors, wires and transistor, but I don't know how to design a webpage so I'm trying to learn software development!
 
