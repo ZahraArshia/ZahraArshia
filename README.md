@@ -21,6 +21,6 @@
 <!-- ### How to Reach Me:
 [![Linkedin Badge](https://img.shields.io/badge/-Zahra%20Arshia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahra-arshia-89247210a/)](https://www.linkedin.com/in/zahra-arshia-89247210a/)  -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraArshia&show_icons=true)
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraArshia&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraArshia&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <p>You can check out my portfolio <a href="https://zahraarshia.github.io/my-portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
