@@ -3,9 +3,9 @@
 
 ### a little more about me:
 
-🎓 I’m an Intern at <a href="https://www.microverse.org/">Microverse Inc</a>
+<!-- 🎓 I’m an Intern at <a href="https://www.microverse.org/">Microverse Inc</a> -->
 
-💻 Stack: JavaScript, HTML/CSS, Bootstrap, Ruby
+💻 Stack: Ruby, JavaScript, HTML/CSS, Bootstrap
 
 🧠 Degree: Master's Computer science
 
