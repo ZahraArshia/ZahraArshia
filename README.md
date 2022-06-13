@@ -1,5 +1,6 @@
 <h2><img src="https://media0.giphy.com/media/dsPBfiEEozyXUXShhB/giphy.gif?cid=ecf05e479g8nvizvqk98xe5jk7z7hbtdj4noix9g8wg24dap&rid=giphy.gif&ct=g" width="70" height="100"> Hi, I'm Zahra!</h2>
 <!-- <img align='right' src="https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif" width="500"> -->
+<img align='right' src="https://i.pinimg.com/originals/df/10/1f/df101f643f67b99cb39b03187c04c1ee.gif">
 
 ### a little more about me:
 
