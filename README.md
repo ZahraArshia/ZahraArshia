@@ -38,4 +38,4 @@
 
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraArshia&show_icons=true) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraArshia&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<p>You can check out my portfolio <a href="https://zahraarshia.github.io/my-portfolio/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p>You can check out my portfolio <a href="https://zahraarshia.github.io/MyResume/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
