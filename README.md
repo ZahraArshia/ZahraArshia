@@ -3,39 +3,45 @@
 <img align='right' src="https://i.pinimg.com/originals/df/10/1f/df101f643f67b99cb39b03187c04c1ee.gif">
 <!-- <img src="https://i.pinimg.com/originals/c0/d6/10/c0d610d25c4dce9a0e7475411d586ece.gif"> -->
 
-### a little more about me:
+### A little more about me:
 
-<!-- 🎓 I’m an Intern at <a href="https://www.microverse.org/">Microverse Inc</a> -->
+I am an AI engineer with expertise in Natural Language Processing (NLP). With a passion for understanding and decoding language, I constantly explore and develop innovative solutions to processing and analyzing textual data.
 
-💻 Stack: Ruby, JavaScript, HTML/CSS, Bootstrap
+🛠️ Frameworks: Keras, TensorFlow, PyTorch, Deeplearning4j, Scikit-learn, Caffe
 
-🧠 Degree: Master's Computer science
+🧠 Degree: Master's Computer engineering - Artificial intelligence & robotics
 
-🌱 Status: looking for a new job opportunity
+🌱 Status: looking for a better job opportunity
 
 <!-- 📫 Reach me on fzarshia@gmail.com -->
-🛠️ Languages and Tools: <br>
+💻 Tech Stack: <br>
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
-![NPM](https://img.shields.io/badge/-NPM-000000?style=flat&logo=NPM)
-![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=Redux&logoColor=violet)
-![Ruby](https://img.shields.io/badge/-Ruby-000000?style=flat&logo=ruby&logoColor=red)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+
+<p>You can check out my portfolio <a href="https://zahraarshia.github.io/MyResume/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 ## 📫 Contact me 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ZahraArshia)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:fzarshia@gmail.com)](mailto:fzarshia@gmail.com)
 
-- LinkedIn: [ZahraArshia](https://www.linkedin.com/in/zahra-arshia-89247210a/)
-- Email: fzarshia@gmail.com
 
-<!-- ### How to Reach Me:
-[![Linkedin Badge](https://img.shields.io/badge/-Zahra%20Arshia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zahra-arshia-89247210a/)](https://www.linkedin.com/in/zahra-arshia-89247210a/)  -->
+<!--
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ZahraArshia&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ZahraArshia&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraArshia&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ZahraArshia&show_icons=true) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZahraArshia&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<p>You can check out my portfolio <a href="https://zahraarshia.github.io/MyResume/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=ZahraArshia&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+-->
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
