@@ -44,6 +44,6 @@ I am an AI engineer with expertise in Natural Language Processing (NLP). With a 
 ![](https://github-profile-trophy.vercel.app/?username=ZahraArshia&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
 -->
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&hide_border=true)
 
 
